@@ -1,0 +1,11 @@
+{
+  "require": {
+    "vonage/client": "^3.0",
+    "guzzlehttp/guzzle": "^7.0"
+  },
+  "config": {
+    "platform": {
+      "php": "7.4.33"
+    }
+  }
+}
